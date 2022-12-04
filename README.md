@@ -14,6 +14,7 @@ This project uses Python and SQL queries to answer particular questions by downl
 ### 1.3 Group work
 Meng Li(ml4818) is responsible for preprocessing Taxi and Uber data and Part4 (Visulization);
 Shangxian Liu(sl5197) is is responsible for preprocessing Weather data and Part3 (SQL Analysis)
+Equal work contribution.
 
 ## 2. Result
 We have already completed Data cleaning, storing, 6 questions in Part3 and 6 questions in Part4.
