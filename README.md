@@ -17,4 +17,5 @@ Shangxian Liu(sl5197) is is responsible for preprocessing Weather data and Part3
 
 ## 2. Result
 We have already completed Data cleaning, storing, 6 questions in Part3 and 6 questions in Part4.
-Besides, the Test requirement, Sunrise-Sunset table and Animation are also finished.
+
+Besides, **the Test requirement, Sunrise-Sunset table and Animation are also finished**.
