@@ -1,5 +1,3 @@
-re
-math
 bs4
 folium
 requests
