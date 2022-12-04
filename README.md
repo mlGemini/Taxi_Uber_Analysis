@@ -10,4 +10,4 @@ This project uses Python and SQL queries to answer particular questions by downl
 3) Historical weather data: the complete catalog of local climatological data for 2009 through 2015 [Weather_link](https://drive.google.com/drive/folders/1I_Cj3RFHRGcQjb5Gas06buqRbKodIwKC), plus the dataset’s documentation, can be found in this folder [Weather_document](https://drive.google.com/drive/folders/1I_Cj3RFHRGcQjb5Gas06buqRbKodIwKC).
 
 ### 1.2 Installation
-
+```pip install -r requirements.txt```
