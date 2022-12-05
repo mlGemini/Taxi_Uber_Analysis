@@ -12,6 +12,7 @@ This project uses Python and SQL queries to answer particular questions by downl
 
 ### 1.2 Installation
 ```pip install -r requirements.txt```
+
 ```conda install -c conda-forge ffmpeg```
 ### 1.3 Group work
 Meng Li(ml4818) is responsible for preprocessing Taxi and Uber data and Part4 (Visulization);
